@@ -1,0 +1,11 @@
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor.DataSource*31*8*DataSourceModuleType
+Rule.Performance.Collection.PowerShellScript.mpx*SCOM2K16.AgentHealth.AgentProcessor.Script.Perf.Datasource*36*8*DataSourceModuleType
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor.MonitorType*156*8*UnitMonitorType
+Rule.Performance.Collection.PowerShellScript.mpx*SCOM2K16.AgentHealth.AgentProcessor.Script.Perf.Rule*148*8*Rule
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor*238*8*UnitMonitor
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor.AlertMessage*260*8*StringResource
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor*266*10*DisplayString
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor*270*10*DisplayString*SubElementID*GoodCondition
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor*273*10*DisplayString*SubElementID*BadCondition
+Monitor.TimedScript.PowerShell.mpx*SCOM2K16.AgentHealth.AgentProcessor.Monitor.AlertMessage*276*10*DisplayString
+Rule.Performance.Collection.PowerShellScript.mpx*SCOM2K16.AgentHealth.AgentProcessor.Script.Perf.Rule*173*10*DisplayString
